@@ -1,5 +1,7 @@
 # UCL MSc Software Systems Engineering — 2026–2027
 
+[English version — full index and notes](dict/README.md)
+
 Personal weekly lecture notes, course summaries, and coursework explanations for the MSc Software Systems Engineering programme at UCL.
 
 本專案以 **English technical terms、English questions** 為主，使用繁體中文解釋概念、整理課堂問答與作業步驟，方便準備英文考試。各科依 Moodle 的 teaching topic／Week 分組，再按 Asksia 錄音日期整合當週內容。
@@ -10,15 +12,16 @@ Personal weekly lecture notes, course summaries, and coursework explanations for
 
 | Module | Weekly notes | Coursework |
 |---|---|---|
-| COMP0101 — Requirements Engineering and Software Architecture | [Week 1](Comp0101-Requirements%20Engineering%20and%20Software%20Architecture/Week1/README.md) | [Tasks & my answers](Comp0101-Requirements%20Engineering%20and%20Software%20Architecture/Week1/coursework/README.md) |
-| COMP0104 — Software Development Practice | [Week 1](Comp0104-Software%20Development%20Practice/Week1/README.md) | [Tasks](Comp0104-Software%20Development%20Practice/Week1/coursework/README.md) |
-| COMP0108 — Research Methods in Software Engineering | [Week 1](Comp0108-Research%20Methods%20in%20Software%20Engineering/Week1/README.md) | [Tasks](Comp0108-Research%20Methods%20in%20Software%20Engineering/Week1/coursework/README.md) |
-| COMP0235 — Engineering for Data Analysis 1 | [Week 1](Comp0235-Data%20Engineering/Week1/README.md) | [Tasks](Comp0235-Data%20Engineering/Week1/coursework/README.md) |
+| COMP0101 — Requirements Engineering and Software Architecture | [繁中](Comp0101-Requirements%20Engineering%20and%20Software%20Architecture/Week1/README.md) · [English](Comp0101-Requirements%20Engineering%20and%20Software%20Architecture/Week1/dict/README.md) | [繁中](Comp0101-Requirements%20Engineering%20and%20Software%20Architecture/Week1/coursework/README.md) · [English](Comp0101-Requirements%20Engineering%20and%20Software%20Architecture/Week1/coursework/dict/README.md) |
+| COMP0104 — Software Development Practice | [繁中](Comp0104-Software%20Development%20Practice/Week1/README.md) · [English](Comp0104-Software%20Development%20Practice/Week1/dict/README.md) | [繁中](Comp0104-Software%20Development%20Practice/Week1/coursework/README.md) · [English](Comp0104-Software%20Development%20Practice/Week1/coursework/dict/README.md) |
+| COMP0108 — Research Methods in Software Engineering | [繁中](Comp0108-Research%20Methods%20in%20Software%20Engineering/Week1/README.md) · [English](Comp0108-Research%20Methods%20in%20Software%20Engineering/Week1/dict/README.md) | [繁中](Comp0108-Research%20Methods%20in%20Software%20Engineering/Week1/coursework/README.md) · [English](Comp0108-Research%20Methods%20in%20Software%20Engineering/Week1/coursework/dict/README.md) |
+| COMP0235 — Engineering for Data Analysis 1 | [繁中](Comp0235-Data%20Engineering/Week1/README.md) · [English](Comp0235-Data%20Engineering/Week1/dict/README.md) | [繁中](Comp0235-Data%20Engineering/Week1/coursework/README.md) · [English](Comp0235-Data%20Engineering/Week1/coursework/dict/README.md) |
 
 ## 每週文件怎麼讀
 
 - `Week1/README.md`：整週重點、Key Concepts、教授提醒的易錯點、課堂 Q&A，以及英文備考重點。
 - `Week1/coursework/README.md`：作業／閱讀／練習內容、來源、期限、提交方式、計分規則，以及已提供的個人作答。
+- 每份原 README 都有 `English version` 入口，完整英文版放在同層 `dict/README.md`；英文版可切回繁中，並連到英文課堂／coursework 文件。
 - **課堂觀點／Moodle 要求**：可核對的來源內容；錄音中的時間碼用於回查。
 - **理解補充／分析**：為了學習而加入的說明，不作為教授逐字原話。
 - **My answer**：學生自己的作答，不自動等同於官方答案、已提交內容或已取得分數。
@@ -55,6 +58,11 @@ Asksia 的自動轉錄可能有誤聽、缺句或翻譯錯位。筆記先分析�
 
 **來源異常**：COMP0101 RTC 作業頁沿用 2025 年日期，故採用 2026-10-09 最新公告的課前要求；部分 Moodle 附件／lecture-notes book 無法正常取得，文件明示未讀部分並提供官方入口。Quiz 已讀現有 review；RTC、其他 labs／forums／CW1 均沒有由這次整理代交。
 
+## 閱讀檔案與作答截圖
+
+- **COMP0108 Group D**：[指定 ISSTA 2015 paper，13 頁](Comp0108-Research%20Methods%20in%20Software%20Engineering/Week1/coursework/materials/Qi-et-al-2015-ISSTA-Patch-Plausibility-and-Correctness.pdf) · [老師提供的 CW1 Word 作業說明](Comp0108-Research%20Methods%20in%20Software%20Engineering/Week1/coursework/materials/COMP0108-CW1-Summary-and-Reflection.docx)。我原有的 84 頁 MIT 碩論已在 [coursework 資料區](Comp0108-Research%20Methods%20in%20Software%20Engineering/Week1/coursework/README.md) 另標為相關補充，避免與指定 conference paper 混淆。
+- **COMP0101**：已提交答案與 review 截圖收錄在 [coursework README](Comp0101-Requirements%20Engineering%20and%20Software%20Architecture/Week1/coursework/README.md)。
+
 ## 官方入口
 
 - [UCL Moodle — My courses](https://moodle.ucl.ac.uk/my/courses.php)
@@ -66,3 +74,4 @@ Asksia 的自動轉錄可能有誤聽、缺句或翻譯錯位。筆記先分析�
 ## 更新記錄
 
 - **2026-10-12**：整合五份原始課堂 transcript、四科 Moodle Week 1 資料，完成八份 weekly/coursework README 與根目錄索引；收錄 COMP0101 Lifecycle Quiz 五題作答，並核對現有提交成績 4/4。
+- **2026-10-12**：四科新增完整英文版與語言切換連結；加入 COMP0108 閱讀檔案／Word 作業說明及 COMP0101 作答截圖。

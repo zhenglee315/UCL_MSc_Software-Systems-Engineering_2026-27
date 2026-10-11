@@ -1,5 +1,7 @@
 # COMP0101 — Week 1 Coursework, Reading and My Answers
 
+[English version](dict/README.md)
+
 [回到本週課堂筆記](../README.md) · [Moodle Week 1](https://moodle.ucl.ac.uk/course/section.php?id=1379384)
 
 核對時間：**2026-10-12，Europe/London**。本文件區分 Moodle instructions、我的完成狀態，以及學習用作法建議。這次整理沒有替我提交任何 Moodle assignment／quiz。
@@ -98,6 +100,28 @@
 
 **中文理解**：先同意 stakeholder goals 是最終判準，再說明 reliability、usability、security、accessibility、maintainability 如何支持這些 goals；衝突時須交代 priority 和理由。這是我的答案，沒有把它稱為唯一 model answer。
 
+### Screenshots — Finished Attempt
+
+以下 PNG 於 **2026-10-12，Europe/London** 從已完成的 Moodle attempt review 直接截取，沒有滑鼠游標。三張原圖合起來保留 **4/4 成績、Q1–Q5 的作答與回饋**。
+
+#### Grade and Q1–Q2
+
+![Finished attempt: 4/4 grade and complete Q1–Q2 answers and feedback](images/lifecycle-quiz-grade-q1-q2.png)
+
+[Open full-resolution screenshot](images/lifecycle-quiz-grade-q1-q2.png)
+
+#### Q3–Q4
+
+![Complete Q3–Q4 answers and feedback](images/lifecycle-quiz-q3-q4.png)
+
+[Open full-resolution screenshot](images/lifecycle-quiz-q3-q4.png)
+
+#### Q5 — Complete / Not graded
+
+![Complete Q5 reflection answer and feedback, marked Not graded](images/lifecycle-quiz-q5.png)
+
+[Open full-resolution screenshot](images/lifecycle-quiz-q5.png)
+
 ### Quiz 會不會考？
 
 Moodle 說 quiz 用來檢查 Chapter 5 的理解；必讀內容 could be assessed。因此 **Agile、iterative/incremental、Twin Peaks、stakeholder goals 等概念要會**。沒有公告保證期末考會原封不動出這五題，也沒有說 quiz mark 算入 COMP0101 final mark。
@@ -158,7 +182,7 @@ COMP0101 final assessment 是 **100% three-hour written exam**。Past papers 入
 
 - [Moodle My courses](https://moodle.ucl.ac.uk/my/courses.php) → [COMP0101](https://moodle.ucl.ac.uk/course/view.php?id=56463) → [Week 1](https://moodle.ucl.ac.uk/course/section.php?id=1379384)。
 - [Reading](https://moodle.ucl.ac.uk/mod/url/view.php?id=8513323)、[Foundations slides](https://moodle.ucl.ac.uk/mod/resource/view.php?id=8513321)、[optional Fowler talk](https://moodle.ucl.ac.uk/mod/url/view.php?id=8513325)。
-- [Lifecycle Quiz](https://moodle.ucl.ac.uk/mod/quiz/view.php?id=8513324) 與只讀 [completed attempt review](https://moodle.ucl.ac.uk/mod/quiz/review.php?attempt=6460314&cmid=8513324)；另有我提供的 Q1–Q5 screenshots。
+- [Lifecycle Quiz](https://moodle.ucl.ac.uk/mod/quiz/view.php?id=8513324) 與只讀 [completed attempt review](https://moodle.ucl.ac.uk/mod/quiz/review.php?attempt=6460314&cmid=8513324)；本文件已嵌入 Q1–Q5 的原始 screenshots。
 - [RTC assignment](https://moodle.ucl.ac.uk/mod/assign/view.php?id=8513326) 與已讀 `1. Foundations-RTC.docx`。
 - [2026-10-09 Week 1 Reading and Exercises announcement](https://moodle.ucl.ac.uk/mod/forum/discuss.php?d=1316380#p2355911)。
 - [Asksia 原始課堂來源](https://app.asksia.ai/pro/session?id=32744d41-52e6-4ccd-847e-d63797c258a3)：`Recording_20261008_0800`／`Recording_20261008_1609`；已讀範圍與 ASR 限度見 [weekly notes](../README.md#11-sources-and-coverage)。

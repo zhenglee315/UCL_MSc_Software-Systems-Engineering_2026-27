@@ -1,5 +1,7 @@
 # COMP0104 Week 1 — Coursework and Practice Checklist
 
+[English version](dict/README.md)
+
 > 核對：2026-10-12（Europe/London）。本頁整理官方題目要求與本人可見狀態，不是已完成的 Lab 答案。課堂概念見 [Week 1 notes](../README.md)。
 
 ## What needs doing, and when?

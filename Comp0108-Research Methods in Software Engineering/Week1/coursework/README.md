@@ -1,5 +1,7 @@
 # Week 1 Coursework — CW1 MIP Summary and Reflection
 
+[English version](dict/README.md)
+
 此檔記錄 **官方要求、分組及閱讀安排**。沒有為 assigned paper 生成 structured summary 或 personal reflection，也沒有學生答案。
 
 ## Official sources
@@ -10,6 +12,18 @@
 - [Asksia Recording_20261009_1102](https://app.asksia.ai/pro/session?id=586f073f-f525-4973-b96b-4a2a0208a53e)：約 `43:15–57:13` 的口述背景；正式要求以完整 brief 為準。
 
 **Last checked: 12 October 2026.** Moodle 當時顯示 **No submissions have been made yet**；此狀態是查核紀錄，提交後需另行更新。
+
+## Download materials
+
+| Order | Material | How to use it |
+|---|---|---|
+| 1 | [Group D assigned ISSTA 2015 paper — 13 pages](materials/Qi-et-al-2015-ISSTA-Patch-Plausibility-and-Correctness.pdf) | **先讀此篇指定 paper**：Qi、Long、Achour、Rinard 四作者的 conference paper。來源是[作者提供的 MIT PDF](https://people.csail.mit.edu/zichaoqi/papers/kali-issta15/paper.pdf)，由[作者首頁](https://people.csail.mit.edu/zichaoqi/)連結；只核對首頁書目身分，沒有生成 paper 分析或作業答案。 |
+| 2 | [CW1 作業說明（原始 Word assignment brief）](materials/COMP0108-CW1-Summary-and-Reflection.docx) | Moodle 官方附件的原始副本，包含要求、格式及示例；不是已完成的作業答案。 |
+| 3 | [Related MIT thesis (84 pages; not the assigned conference paper)](materials/An%20Analysis%20of%20Patch%20Plausibility%20and%20Correctness%20for%20Generate-and-Validate%20Patch%20Generation%20Systems.pdf) | **僅補充**：repo owner 提供的同名檔案，實際是 **Zichao Qi 單作者、September 2015 的 MIT master's thesis**。[UCL Primo / ProQuest thesis record](https://ucl.primo.exlibrisgroup.com/permalink/44UCL_INST/447gj8/cdi_proquest_journals_3332470845) 是此 thesis 的館藏紀錄。 |
+
+目前核對的官方 CW1 材料中，只找到這份 Word **assignment brief**，沒有另行提供的可填寫 worksheet/template。**最終提交仍是單一匿名 PDF**；下載老師的 Word 說明不等於完成或提交作業。
+
+上述 **84-page thesis 與 Group D 指定的四作者 ISSTA 2015 conference paper 不同**。CW1 要讀上表第 1 項 assigned paper；完整 citation 列在「Group D and the assigned MIP」。這份 thesis 是額外保存的相關來源，不是本作業指定的 84 頁閱讀。
 
 ## At a glance
 

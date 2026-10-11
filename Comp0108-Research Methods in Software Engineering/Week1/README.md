@@ -1,5 +1,7 @@
 # Week 1 — Introduction to Research Methods in Software Engineering
 
+[English version](dict/README.md)
+
 **Class:** 9 October 2026 · **Lecturer:** Emmanuel Letier · **Module:** COMP0108
 
 本週把兩個主題連在一起：如何閱讀、判斷與溝通 Software Engineering research，以及如何把這些能力用在本學期的 assessments。以下以英文 technical terms 為主、繁中解釋為輔；內容依原始英文課堂 transcript 整理，再核對 Asksia summary 與 Moodle 官方資料。

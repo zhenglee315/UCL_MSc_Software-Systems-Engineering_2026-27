@@ -1,5 +1,7 @@
 # COMP0235 — Week 1 輔助筆記
 
+[English version](dict/README.md)
+
 **Module:** Engineering for Data Analysis 1（資料夾沿用 Data Engineering 名稱）
 
 **Moodle topic:** Course Welcome and Remedial Software Engineering Practice
@@ -52,7 +54,7 @@
 | **Terminal / shell / command** | Terminal 顯示及輸入文字；shell 解讀命令；command 是被呼叫的操作。 | `cd` 等可以是 shell builtin，不是每個命令都必然對應 `/usr/bin` 的獨立檔案。 |
 | **Working directory / path** | Working directory 是當前位置；path 指定檔案所在位置。 | Absolute path 從 `/` 開始；relative path 依當前位置解讀。 |
 | **stdin / stdout / stderr** | 程式的標準輸入、正常輸出、診斷／錯誤輸出。 | stdout 與 stderr 即使都顯示在 Terminal，也仍是不同的 stream。 |
-| **Redirection / pipe** | 改變 stream 的目的地或連接兩個程式。 | `>` 寫檔，`2>` 寫錯誤，`|` 把左邊 stdout 交給右邊 stdin。 |
+| **Redirection / pipe** | 改變 stream 的目的地或連接兩個程式。 | `>` 寫檔，`2>` 寫錯誤，`\|` 把左邊 stdout 交給右邊 stdin。 |
 | **Package / service / firewall** | 套件是安裝材料；service 是執行中的服務；firewall 控制流量。 | 安裝 Apache 不等於已啟動，也不等於已能從瀏覽器連到。 |
 | **Manifest / YAML / automation** | 配置檔記述要建立的資源或設定。 | YAML 是資料格式；Kubernetes manifest 是有特定結構的配置。單有 YAML 檔不代表 VM 已建立。 |
 | **Git / GitHub / pull request** | Git 保存版本歷史；GitHub 提供協作平台；PR 提請審查一組變更。 | 保存檔案、commit、push、提出 PR 與 merge 是不同階段。 |
@@ -180,7 +182,7 @@ ls -l -a -h
 | `command > output.txt` | 把 stdout 寫入檔案，通常覆蓋原內容。 |
 | `command >> output.txt` | 把 stdout 追加到檔案。 |
 | `command 2> errors.txt` | 把 stderr 寫入另一檔案。 |
-| `left | right` | 把左邊 stdout 接到右邊 stdin。 |
+| `left \| right` | 把左邊 stdout 接到右邊 stdin。 |
 
 ```sh
 # 補充例子：文字輸出與過濾

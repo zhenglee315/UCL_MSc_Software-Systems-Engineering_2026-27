@@ -1,5 +1,7 @@
 # COMP0104 Week 1 — Managing Changes and Centralised Version Control
 
+[English version](dict/README.md)
+
 > 整理範圍：2026-10-05–2026-10-11；來源核對日：2026-10-12（Europe/London）。English technical terms 為主，繁中說明。這是個人統整筆記，不是逐字稿或講義全文。
 
 ## Source coverage

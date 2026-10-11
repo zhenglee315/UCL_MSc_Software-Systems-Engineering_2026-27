@@ -1,5 +1,7 @@
 # COMP0101 — Week 1: Foundations of Requirements Engineering
 
+[English version](dict/README.md)
+
 本週將 **2026-10-08 上午與下午兩堂課**整合，主線是：從 stakeholders 在真實世界想達成的 goals 出發，劃定 machine boundary，分清 phenomena、requirements 和 assumptions，再檢查軟體做對規格是否足以解決問題。
 
 [本週作業、閱讀與我的 Quiz 答案](coursework/README.md) · [Moodle Week 1](https://moodle.ucl.ac.uk/course/section.php?id=1379384)

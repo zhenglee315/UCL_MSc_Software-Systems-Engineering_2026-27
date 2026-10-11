@@ -1,5 +1,7 @@
 # COMP0235 — Week 1 任務與閱讀紀錄
 
+[English version](dict/README.md)
+
 **Topic:** Course Welcome and Remedial Software Engineering Practice
 
 **核查日期:** 2026-10-12，Europe/London
