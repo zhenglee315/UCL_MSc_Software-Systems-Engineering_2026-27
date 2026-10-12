@@ -107,6 +107,8 @@ Moodle 寫 **REQUIRED READING: Familiarise yourself with the pep008 standard**�
 
 作者為 Damien Irving、Kate Hertweck、Luke Johnston、Joel Ostblom、Charlotte Wickham、Greg Wilson。正式書名是 **Research Software Engineering with Python**；Moodle 活動名稱寫作「in Python」，對應的要求是 **Read Chapter 2**。
 
+**2026-10-12 閱讀整理：** [Chapter 2 課業要求、大綱、重點與心得草稿](reading/README.md) · [English version](reading/dict/README.md)。已依本機 PDF 完整書頁 13–44 與作者版整理；本人閱讀／實作狀態仍分開記錄。
+
 第 2 章標題是 **The Basics of the Unix Shell**，依序讀：
 
 1. **2.1–2.2 Exploring / moving around:** filesystem、current directory、absolute／relative paths。
@@ -158,7 +160,7 @@ Moodle 說可以 optionally 完成全部 exercises；沒有把全部關卡列成
 
 | 日期 | 完成項目 | 自己的證據或來源連結 | 仍不清楚的地方 |
 | --- | --- | --- | --- |
-| 待填 | 待本人完成 | 待填 | 待填 |
+| 2026-10-12 | Chapter 2 閱讀筆記與心得草稿已整理 | [Reading README](reading/README.md)；AI 協助整理，非本人實作完成證據 | 本人核對心得、練習尚不熟悉的指令 |
 
 Moodle 的 **Mark as done／completion** 只表示平台追蹤條件或勾選狀態，不能單獨證明離線閱讀、外部 Git 關卡或 VM 操作已完成。本次整理沒有手動按 Mark as done。
 

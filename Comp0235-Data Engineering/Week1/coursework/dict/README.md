@@ -109,6 +109,8 @@ Moodle states **REQUIRED READING: Familiarise yourself with the pep008 standard*
 
 The authors are Damien Irving, Kate Hertweck, Luke Johnston, Joel Ostblom, Charlotte Wickham and Greg Wilson. The official title is **Research Software Engineering with Python**. The Moodle activity title uses “in Python”; the corresponding instruction is **Read Chapter 2**.
 
+**Reading notes prepared on 12 October 2026:** [Chapter 2 requirements, outline, key points, and reflection draft](../reading/dict/README.md) · [繁體中文版](../reading/README.md). Prepared from the complete printed pages 13–44 in the local PDF and the authors' version; the student's reading/practical status remains separate.
+
 Chapter 2 is titled **The Basics of the Unix Shell**. Read it in this order:
 
 1. **2.1–2.2 Exploring / moving around:** filesystem, current directory and absolute/relative paths.
@@ -160,7 +162,7 @@ Do not reconstruct unrecognisable commands in the later transcript as “command
 
 | Date | Completed item | Personal evidence or source link | Remaining questions |
 | --- | --- | --- | --- |
-| To be filled in | For the student to complete | To be filled in | To be filled in |
+| 12 October 2026 | Chapter 2 study notes and reflection draft prepared | [Reading README](../reading/dict/README.md); AI-assisted preparation, not evidence of the student's practical completion | Student reviews the reflection and practises unfamiliar commands |
 
 Moodle's **Mark as done/completion** indicates platform tracking conditions or a ticked status. It cannot, by itself, prove completion of offline reading, external Git levels or VM operations. Mark as done was not clicked manually while preparing these notes.
 
